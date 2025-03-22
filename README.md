@@ -19,7 +19,7 @@
 |----------------|--------|------|
 | 🧱 Python    | ✅ 完成 | 理解装饰器、函数对象、名字绑定机制，构建注册系统 |
 | 🔗 Node.js / FastAPI | 🧭 学习中 | 后端 API 设计、异步通信、缓存、队列与部署 |
-| 🕹️ Playwright 自动化 | 🛠️ 构建中 | 数据爬取、脚本化浏览器交互、任务调度 |
+| 🕹️ Browser-use 自动化 | 🛠️ 构建中 | LLM驱动的浏览器自动化、任务执行系统 |
 | 🤖 AI Agent & 工具链 | 🔬 研究中 | 思维链 Prompt、任务执行系统、Agent 编排与状态管理 |
 | ⚙️ Dev Tooling      | 🧰 工具集 | GitHub CLI、爬虫小脚本、项目批量管理、效率脚本 |
 
@@ -27,12 +27,15 @@
 
 ## 📚 知识文档索引
 
-| 类别            | 文档文件 |
-|------------------|----------|
-| Python 装饰器入门 | [`python_decorator_guide.md`](./python_decorator_guide.md) |
-| PPython 中的类、self 与继承 | [`python_class__guide.md`](./python_class_guide.md) |
-| 自动化与 Playwright | [`playwright_automation.md`](./playwright_automation.md) |
-
+| 类别 | 文档文件 |
+|------|----------|
+| Python 装饰器 | [`python_decorator_guide.md`](./python_decorator_guide.md) |
+| Python 中的类与self | [`python_class_guide.md`](./python_class_guide.md) |
+| Python面向对象编程 | [`python_oop_guide.md`](./python_oop_guide.md) |
+| Python类型系统 | [`python_type_hints_guide.md`](./python_type_hints_guide.md) |
+| Python异步编程 | [`python_async_guide.md`](./python_async_guide.md) |
+| Python与AI应用 | [`python_ai_guide.md`](./python_ai_guide.md) |
+| Browser-use原理解析 | [`browser_use_guide.md`](./browser_use_guide.md) |
 
 你可以点击这些文档，逐步进入我如何从概念理解到实现落地的思维路径。
 
@@ -57,7 +60,28 @@
 ## 📌 TODO & Roadmap
 
 - [x] 写完第一篇 Python文章
-- [ ] 构建 Playwright 数据采集工具
+- [ ] Python系列技术文章
+  - [ ] Python的本质与面向对象编程
+    - 类与实例、self/cls、继承与多态
+    - __new__与__init__深度解析
+    - 元类机制与应用
+  - [ ] Python中的装饰器与高阶函数
+    - 装饰器原理与实现
+    - 高阶函数与闭包
+    - 异步装饰器设计
+  - [ ] Python中的类型提示与泛型
+    - 类型系统基础
+    - Callable与Union类型
+    - 泛型编程实践
+  - [ ] Python与异步编程
+    - async/await机制
+    - asyncio应用
+    - 异步编程最佳实践
+  - [ ] Python在AI领域的应用
+    - AI框架集成
+    - 数据科学工具链
+    - 机器学习实践
+- [x] Browser-use工作原理与调用链分析
 - [ ] 输出《AI Agent 系统入门指南》
 - [ ] 把所有核心知识模块拆成 md + 脚本化 demo
 - [ ] 构建 markdown + 脚本文档网站（支持搜索）
