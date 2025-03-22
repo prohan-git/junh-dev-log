@@ -27,6 +27,7 @@
 
 ## 📚 知识文档索引
 
+### 🐍 Python核心概念
 | 类别 | 文档文件 |
 |------|----------|
 | Python 装饰器 | [`python_decorator_guide.md`](./python_decorator_guide.md) |
@@ -34,8 +35,20 @@
 | Python面向对象编程 | [`python_oop_guide.md`](./python_oop_guide.md) |
 | Python类型系统 | [`python_type_hints_guide.md`](./python_type_hints_guide.md) |
 | Python异步编程 | [`python_async_guide.md`](./python_async_guide.md) |
+
+### 🤖 AI与自动化
+| 类别 | 文档文件 |
+|------|----------|
 | Python与AI应用 | [`python_ai_guide.md`](./python_ai_guide.md) |
 | Browser-use原理解析 | [`browser_use_guide.md`](./browser_use_guide.md) |
+| AI Agent系统设计 | [`ai_agent_guide.md`](./ai_agent_guide.md) |
+
+### 🛠️ 开发工具与最佳实践
+| 类别 | 文档文件 |
+|------|----------|
+| Git工作流 | [`git_workflow_guide.md`](./git_workflow_guide.md) |
+| 项目自动化脚本 | [`automation_scripts_guide.md`](./automation_scripts_guide.md) |
+| 开发环境配置 | [`dev_environment_guide.md`](./dev_environment_guide.md) |
 
 你可以点击这些文档，逐步进入我如何从概念理解到实现落地的思维路径。
 
