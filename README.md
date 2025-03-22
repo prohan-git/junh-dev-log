@@ -29,7 +29,8 @@
 
 | 类别            | 文档文件 |
 |------------------|----------|
-| Python 装饰器与名字绑定 | [`python_decorator_guide.md`](./python_decorator_guide.md) |
+| Python 装饰器入门 | [`python_decorator_guide.md`](./python_decorator_guide.md) |
+| PPython 中的类、self 与继承 | [`python_class__guide.md`](./python_class_guide.md) |
 | 自动化与 Playwright | [`playwright_automation.md`](./playwright_automation.md) |
 | FastAPI 项目结构实践 | [`fastapi_project_design.md`](./fastapi_project_design.md) |
 | Node.js 服务开发 | [`nodejs_server_notes.md`](./nodejs_server_notes.md) |
@@ -43,7 +44,6 @@
 ## 🔧 技术风格与方法论
 
 - **从原理出发，不止 API**
-- **重结构胜过碎片记忆**
 - **用项目作为知识载体**
 - **边学边写，边写边想**
 
