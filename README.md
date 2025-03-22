@@ -17,7 +17,7 @@
 
 | 模块           | 状态   | 简介 |
 |----------------|--------|------|
-| 🧱 Python 本质    | ✅ 完成 | 理解装饰器、函数对象、名字绑定机制，构建注册系统 |
+| 🧱 Python    | ✅ 完成 | 理解装饰器、函数对象、名字绑定机制，构建注册系统 |
 | 🔗 Node.js / FastAPI | 🧭 学习中 | 后端 API 设计、异步通信、缓存、队列与部署 |
 | 🕹️ Playwright 自动化 | 🛠️ 构建中 | 数据爬取、脚本化浏览器交互、任务调度 |
 | 🤖 AI Agent & 工具链 | 🔬 研究中 | 思维链 Prompt、任务执行系统、Agent 编排与状态管理 |
@@ -32,10 +32,7 @@
 | Python 装饰器入门 | [`python_decorator_guide.md`](./python_decorator_guide.md) |
 | PPython 中的类、self 与继承 | [`python_class__guide.md`](./python_class_guide.md) |
 | 自动化与 Playwright | [`playwright_automation.md`](./playwright_automation.md) |
-| FastAPI 项目结构实践 | [`fastapi_project_design.md`](./fastapi_project_design.md) |
-| Node.js 服务开发 | [`nodejs_server_notes.md`](./nodejs_server_notes.md) |
-| AI Agent 架构分析 | [`agent_system_notes.md`](./agent_system_notes.md) |
-| 工具类小脚本 | [`dev_toolbox.md`](./dev_toolbox.md) |
+
 
 你可以点击这些文档，逐步进入我如何从概念理解到实现落地的思维路径。
 
